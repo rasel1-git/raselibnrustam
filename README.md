@@ -2,7 +2,7 @@
 #### I am a Web specialist || Professional web Developer
 ![I am a Web specialist || Professional web Developer](https://i.postimg.cc/V6xTRL8L/Pink-And-Brown-Hannah-Morales-Linkedln-Banner.png)
 
-Hello, this is Russell Hassan from Bangladesh who always likes to play with your design code. I have considerable professional skills and experience as a front-end developer in HTML, CSS, Bootstrap and WordPress. I am learning PHP Laraval and Database.
+Hello, this is Rasel Hassan from Bangladesh who always likes to play with your design code. I have considerable professional skills and experience as a front-end developer in HTML, CSS, Bootstrap and WordPress. I am learning PHP Laraval and Database.
 
 Skills:  HTML / CSS/JS/Bootstrap/PHP
 
