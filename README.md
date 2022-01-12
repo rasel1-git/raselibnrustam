@@ -1,6 +1,8 @@
+(https://i.postimg.cc/V6xTRL8L/Pink-And-Brown-Hannah-Morales-Linkedln-Banner.png)
+
 ### Hi there 👋, My name is Rasel Hasan
 #### I am a Web specialist || Professional web Developer
-![I am a Web specialist || Professional web Developer](https://i.postimg.cc/V6xTRL8L/Pink-And-Brown-Hannah-Morales-Linkedln-Banner.png)
+![I am a Web specialist || Professional web Developer]
 
 Hello, this is Rasel Hassan from Bangladesh who always likes to play with your design code. I have considerable professional skills and experience as a front-end developer in HTML, CSS, Bootstrap and WordPress. I am learning PHP Laraval and Database.
 
